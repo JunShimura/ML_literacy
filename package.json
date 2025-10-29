@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/JunShimura/ML_literacy#readme",
   "dependencies": {
-    "zenn-cli": "^0.2.8"
-  }
+    "zenn-cli": "^0.1.159"
+  },
+  "type": "commonjs"
 }
